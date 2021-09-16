@@ -1,8 +1,53 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(212, 233, 241);
+
   }
   
   h1 {
-    color: red;
-    margin-left: 20px;
+    color: rgba(255, 98, 0, 0.742);
+    margin-left: 5%;
   }
+
+  h2 {
+      color: rgb(80, 30, 30);
+      margin-left: 50%;
+      font-style: italic;
+      font-size: 20px;
+  }
+  img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  h3 {
+      color:rgba(53, 27, 6, 0.913);
+      font-size: 30px;
+      font-style: italic;
+      margin-left: 20%;
+  }
+
+  h4 {
+      color:rgba(53, 27, 6, 0.913);
+      font-size: 20px;
+      font-style: italic;
+      margin-left: 20%;
+  }
+  p {
+    color:rgba(8, 91, 92, 0.988);
+    font-size: 18px;
+    font-style: oblique;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-left: 30%;
+    color:rgba(53, 27, 6, 0.913);
+  }
+  ul {
+    padding: 20px;
+    margin-left: 30%;
+    color:rgba(53, 27, 6, 0.913);
+  }
+  
