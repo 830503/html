@@ -6,6 +6,7 @@ body {
   h1 {
     color: rgba(255, 98, 0, 0.742);
     margin-left: 5%;
+    margin-top: 5%;
   }
 
   h2 {
@@ -28,26 +29,27 @@ body {
       margin-left: 20%;
   }
 
-  h4 {
-      color:rgba(53, 27, 6, 0.913);
-      font-size: 20px;
-      font-style: italic;
-      margin-left: 20%;
-  }
+
   p {
     color:rgba(8, 91, 92, 0.988);
     font-size: 18px;
     font-style: oblique;
+    text-align: justify;
   }
   table {
     width: 100%;
     border-collapse: collapse;
     margin-left: 30%;
     color:rgba(53, 27, 6, 0.913);
+    font-size: 18px;
   }
   ul {
     padding: 20px;
     margin-left: 30%;
     color:rgba(53, 27, 6, 0.913);
+    font-size: 18px;
   }
-  
+  a {
+      color: rgb(8, 18, 125);
+      font-size: 18px;
+  }
